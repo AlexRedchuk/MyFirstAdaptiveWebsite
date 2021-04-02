@@ -13,7 +13,7 @@ window.addEventListener('DOMContentLoaded', () => {
     multiRangeSlider();
     calcTabs();
     gallery();
-    timer('.timer_box', '2021-01-01');
+    timer('.timer_box', '2027-01-01');
     reviewSlider('.review_slider', '.review_slides', '.review_card'); 
     news();
     subInput();
